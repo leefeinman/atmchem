@@ -11,3 +11,6 @@ Overall, my plan is to slowly put together this package from every new function 
 
 ### Current Status:
 A few functions for lab calculations.
+
+### Disclaimer:
+The tools in this repo are built by a relatively new programmer. Further, these tools are not yet comprehensive. I have ambitions, but I'm not there yet.
